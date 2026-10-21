@@ -1,0 +1,12 @@
+{
+  "format": "t500-fw-1",
+  "code": "zephyr-swift-23",
+  "version": "0.3.2-diag",
+  "security_version": 0,
+  "image": "zephyr-swift-23.bin",
+  "size": 1082288,
+  "sha256": "121dc1ae5e8c8daa702cec294890be69f994ee21b01160fddf8a6d6911bb0422",
+  "encrypted": true,
+  "built": "2026-10-21T23:03:41Z",
+  "notes": "Test release (dev key, DIAG build): re-test of the app's restart-reply and progress fixes"
+}
